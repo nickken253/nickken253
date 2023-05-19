@@ -1,6 +1,6 @@
 # Nickken - Passionate Web Developer
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nickken253&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nickken253&theme=tokyonight)](https://www.linkedin.com/in/hoanganhnickken/)
 
 - 👋 Hi, I’m NickKen
 - 👀 contact me ._.
